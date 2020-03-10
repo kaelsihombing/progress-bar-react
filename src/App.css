@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #428BCA;
+}
+
+button {
+  border-radius: 10px;
+  background: #428BCA;
+  color: #fff;
+  font-size: 20px;
+  height: 60px;
+  width: 150px;
+  line-height: 60px;
+  margin: 25px 25px;
+  text-align: center;
+  outline: none;
+}
+
+input { 
+  /* border: 2px solid #428BCA;  */
+  border: none;
+  /* border-radius: 10px; */
+  color: #428BCA; 
+  height: 30px;
+  width: 200px;
+  outline: none; 
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+h1 { 
+  margin: 0;
+  text-transform: uppercase;
+  font-size: 46px;
+  margin-bottom: 20px;
+}

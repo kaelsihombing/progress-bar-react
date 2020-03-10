@@ -1,0 +1,26 @@
+.circular-chart {
+    display: block;
+    margin: 28px auto;
+    max-width: 100%;
+    max-height: 250px;
+}
+
+.circular-bg {
+    fill: none;
+    background-color: white;
+}
+
+.circle {
+    fill: none;
+}
+
+.percentage {
+    font-size: 1.3rem;
+    text-anchor: middle;
+    fill: #428BCA;
+    font-weight: bold;
+}
+
+input {
+    color: #428BCA;
+}
